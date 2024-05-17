@@ -70,8 +70,3 @@ def forecast_gdp_by_country(data, country_name):
 
 1. [https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 2. [https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/](https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/)
-=======
-## Working
-The project is implemented using Python with libraries such as pandas, numpy, sklearn, statsmodels, and matplotlib. Below is an example function for forecasting GDP for a specific country:
-
->>>>>>> 70d3cc5bb39d64c83bc949608a33a16270eded6b
