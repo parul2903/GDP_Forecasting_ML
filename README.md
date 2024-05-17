@@ -24,10 +24,9 @@ This project aims to forecast the Gross Domestic Product (GDP) for different cou
 6. **Visualization**:
    - Create plots to visualize the actual vs. predicted GDP values and key economic indicators.
 
-<<<<<<< HEAD
    The following plot visualizes the key economic indicators on the basis of decreasing scores:
 
-![Alt text]("2.png")
+![Alt text](2.png)
 
 ## Working
 The project is implemented using Python with libraries such as pandas, numpy, sklearn, statsmodels, and matplotlib. Below is an example function for forecasting GDP for a specific country:
@@ -64,7 +63,7 @@ def forecast_gdp_by_country(data, country_name):
     plt.show()
 ```
 
-![Alt text]("1.png")
+![Alt text](1.png)
 
 ## References
 
